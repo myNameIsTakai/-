@@ -1,0 +1,39 @@
+.pic_main {
+    width: 40%;
+    text-align: center;
+}
+.pic_main2 {
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.comment{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* .name{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+} */
+
+.img-in-card{
+    width: 100%;
+}
+
+.font-homepage{
+    text-align: center;
+}
+.font-psize{
+    font-size: 18px;
+}
+
+/* เหลือเพิ่ม Animation */
+.card{
+    -webkit-box-shadow: -8px 14px 30px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 14px 30px -9px rgba(0,0,0,0.75);
+    box-shadow: -8px 14px 30px -9px rgba(0,0,0,0.75);
+}
+
+
