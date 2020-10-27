@@ -36,12 +36,8 @@ font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
 }
 
-/* เหลือเพิ่ม Animation */
-.card{
-    -webkit-box-shadow: -8px 14px 30px -9px rgba(0,0,0,0.75);
-    -moz-box-shadow: -8px 14px 30px -9px rgba(0,0,0,0.75);
-    box-shadow: -8px 14px 30px -9px rgba(0,0,0,0.75);
-}
+/* เหลือเพิ่ม Animation ส่วน Our service*/
+
 
 hr.white {
     border-top: 0.5px solid #666666;
